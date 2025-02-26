@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import ttk, font, messagebox
 from tkinter import PhotoImage
 
+
 #criando janela 'win'
 win = tk.Tk() #janela = win
 win.title('TO-DO') #titulo da janela
